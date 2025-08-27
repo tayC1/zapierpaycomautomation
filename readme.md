@@ -16,11 +16,7 @@ This repo contians automation scripts for Zapier, and designed for working withi
 
 ## Zapier Structure 
 
-Schedule by Zapier (runs every day)
-        |   
-   Code by Zapier (run python)
-        |
-    Other Actions here (for me, I'm using slack)
+Schedule by Zapier (runs every day) -> Code by Zapier (run python ) -> Other Actions here (for me, I'm using slack)
 
 
 ## Usage
