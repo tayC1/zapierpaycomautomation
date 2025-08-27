@@ -25,7 +25,6 @@ Schedule by Zapier (runs every day)
 
 ## Usage
 
-- Use the provided Zaps to automate calendar workflows.
 - Modify the Zaps as needed for your specific use case.
 
 ## Support
@@ -34,4 +33,6 @@ For questions or issues, please open an issue in this repository.
 
 ---
 
-**Note:** This project requires a Zapier account and access to supported calendar apps (e.g., Google Calendar, Outlook).
+**Note:** This project requires a Zapier account 
+
+This code is intellectual property of Taylor Giba
