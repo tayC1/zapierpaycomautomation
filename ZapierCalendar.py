@@ -31,4 +31,3 @@ else:
 is_last_day_of_period = today.date() ==last_workday.date() or today.date == fifteenth_workday.date()
 
 output ={'run_zap': is_last_day_of_period} 
-print(output)
